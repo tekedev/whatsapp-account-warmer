@@ -1,0 +1,8 @@
+node_modules/
+user-data/
+playwright-report/
+blob-report/
+*.log
+.DS_Store
+*.tmp
+.env
